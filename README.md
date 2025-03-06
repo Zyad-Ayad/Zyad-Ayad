@@ -141,4 +141,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyad-ayad&layout=donut&theme=dark)
 ## Repositories 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zyad-ayad&repo=Dynamic-Codeforces-Standings&show_owner=true)](https://github.com/Zyad-Ayad/Dynamic-Codeforces-Standings&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zyad-ayad&repo=Dynamic-Codeforces-Standings&show_owner=true&theme=dark)](https://github.com/Zyad-Ayad/Dynamic-Codeforces-Standings) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zyad-ayad&repo=C-Radio&show_owner=true&theme=dark)](https://github.com/Zyad-Ayad/C-Radio) 
