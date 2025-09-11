@@ -6,13 +6,11 @@
 
 ## About me
 
-- :school: I am a `Senior` at [Faculty of Computers & Informatics](http://www.fci.zu.edu.eg/faculty/default) at [Zagazig University](https://www.zu.edu.eg/).
-- :trophy: `ACPC` Finalist.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://flowcv.com/resume/mm1irtq1ag).
-- :book: 3.9/4 CGPA.
+- :school: I am a ` Computer Science Graduate` From [Zagazig University](https://www.zu.edu.eg/).
+- :trophy: `2xACPC` Finalist.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/18nv2nD7qdK6oa_CRX37Bae0-zaEE8ubK/view?usp=drive_link).
+- :book: 3.84/4 CGPA.
 
 
 
